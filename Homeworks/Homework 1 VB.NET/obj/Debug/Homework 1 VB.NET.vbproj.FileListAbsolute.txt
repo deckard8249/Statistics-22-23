@@ -1,0 +1,13 @@
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.exe.config
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.exe
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.pdb
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\bin\Debug\Homework 1 VB.NET.xml
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework_1_VB.NET.Form1.resources
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework_1_VB.NET.Resources.resources
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.GenerateResource.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.vbproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.exe
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.xml
+D:\Microsoft Visual Studio\2022\source\repos\Homework 1 VB.NET\obj\Debug\Homework 1 VB.NET.pdb
