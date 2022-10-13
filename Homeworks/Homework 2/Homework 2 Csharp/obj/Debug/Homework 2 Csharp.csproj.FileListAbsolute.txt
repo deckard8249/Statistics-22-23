@@ -1,0 +1,11 @@
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework 2 Csharp.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework 2 Csharp.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework_2_Csharp.Form1.resources
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework_2_Csharp.Properties.Resources.resources
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework 2 Csharp.csproj.GenerateResource.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework 2 Csharp.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\bin\Debug\Homework 2 Csharp.exe.config
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\bin\Debug\Homework 2 Csharp.exe
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\bin\Debug\Homework 2 Csharp.pdb
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework 2 Csharp.exe
+D:\Microsoft Visual Studio\2022\source\repos\Homework 2 Csharp\obj\Debug\Homework 2 Csharp.pdb
